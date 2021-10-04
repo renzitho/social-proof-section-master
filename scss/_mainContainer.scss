@@ -1,9 +1,12 @@
 .mainContainer{
   width: 100%;
   min-height: 100vh;
+  font-family: $fontFamily;
+  font-size: $fontSize;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
   background: $lightGrayishMagenta;
+  padding: 3rem 0;
 }

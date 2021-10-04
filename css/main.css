@@ -1,11 +1,14 @@
 .mainContainer {
   width: 100%;
   min-height: 100vh;
+  font-family: "Spartan", sans-serif;
+  font-size: 15px;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
-  background: #f7f2f7; }
+  background: #f7f2f7;
+  padding: 3rem 0; }
 
 .attribution {
   font-size: 15px;
