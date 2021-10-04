@@ -7,6 +7,15 @@
   position: relative;
   background: #f7f2f7; }
 
+.attribution {
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  bottom: 0.5rem;
+  max-width: 80%; }
+  .attribution a {
+    color: #3e52a3; }
+
 * {
   padding: 0;
   margin: 0;
