@@ -7,4 +7,9 @@
   position: relative;
   background: #f7f2f7; }
 
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
 /*# sourceMappingURL=main.css.map */
